@@ -1,0 +1,22 @@
+# Python environment
+__pycache__/
+*.pyc
+venv/
+
+# Streamlit secrets
+.env
+.env/
+.streamlit/secrets.toml
+
+# Logs and runtime outputs
+logs/
+*.log
+
+# Uploaded files or generated CSVs
+*.csv
+
+# macOS system files
+.DS_Store
+
+# SQLite or other temp databases
+*.sqlite3

@@ -1,0 +1,370 @@
+[
+    {
+        "name": "Safety",
+        "definition": "Physical and psychological protection",
+        "level": 1,
+        "level_name": "Survival & Security",
+        "level_definition": "Foundation of wellbeing focused on safety, stability, and protection from harm.",
+        "type": "positive"
+    },
+    {
+        "name": "Stability",
+        "definition": "Predictability and order",
+        "level": 1,
+        "level_name": "Survival & Security",
+        "level_definition": "Foundation of wellbeing focused on safety, stability, and protection from harm.",
+        "type": "positive"
+    },
+    {
+        "name": "Security",
+        "definition": "Freedom from fear or harm",
+        "level": 1,
+        "level_name": "Survival & Security",
+        "level_definition": "Foundation of wellbeing focused on safety, stability, and protection from harm.",
+        "type": "positive"
+    },
+    {
+        "name": "Fear",
+        "definition": "Motivated by anxiety or insecurity",
+        "level": 1,
+        "level_name": "Survival & Security",
+        "level_definition": "Foundation of wellbeing focused on safety, stability, and protection from harm.",
+        "type": "negative"
+    },
+    {
+        "name": "Scarcity",
+        "definition": "Mindset of lack or insufficiency",
+        "level": 1,
+        "level_name": "Survival & Security",
+        "level_definition": "Foundation of wellbeing focused on safety, stability, and protection from harm.",
+        "type": "negative"
+    },
+    {
+        "name": "Anxiety",
+        "definition": "Persistent worry or unease",
+        "level": 1,
+        "level_name": "Survival & Security",
+        "level_definition": "Foundation of wellbeing focused on safety, stability, and protection from harm.",
+        "type": "negative"
+    },
+    {
+        "name": "Trust",
+        "definition": "Reliance and confidence in others",
+        "level": 2,
+        "level_name": "Belonging & Connection",
+        "level_definition": "Sense of acceptance and social cohesion rooted in compassion and mutual respect.",
+        "type": "positive"
+    },
+    {
+        "name": "Respect",
+        "definition": "Dignity and consideration for others",
+        "level": 2,
+        "level_name": "Belonging & Connection",
+        "level_definition": "Sense of acceptance and social cohesion rooted in compassion and mutual respect.",
+        "type": "positive"
+    },
+    {
+        "name": "Belonging",
+        "definition": "Feeling accepted and included",
+        "level": 2,
+        "level_name": "Belonging & Connection",
+        "level_definition": "Sense of acceptance and social cohesion rooted in compassion and mutual respect.",
+        "type": "positive"
+    },
+    {
+        "name": "Connection",
+        "definition": "Meaningful relationships",
+        "level": 2,
+        "level_name": "Belonging & Connection",
+        "level_definition": "Sense of acceptance and social cohesion rooted in compassion and mutual respect.",
+        "type": "positive"
+    },
+    {
+        "name": "Blame",
+        "definition": "Assigning fault without ownership",
+        "level": 2,
+        "level_name": "Belonging & Connection",
+        "level_definition": "Sense of acceptance and social cohesion rooted in compassion and mutual respect.",
+        "type": "negative"
+    },
+    {
+        "name": "Exclusion",
+        "definition": "Deliberately leaving others out",
+        "level": 2,
+        "level_name": "Belonging & Connection",
+        "level_definition": "Sense of acceptance and social cohesion rooted in compassion and mutual respect.",
+        "type": "negative"
+    },
+    {
+        "name": "Distrust",
+        "definition": "Lack of faith or confidence in others",
+        "level": 2,
+        "level_name": "Belonging & Connection",
+        "level_definition": "Sense of acceptance and social cohesion rooted in compassion and mutual respect.",
+        "type": "negative"
+    },
+    {
+        "name": "Achievement",
+        "definition": "Accomplishing goals or success",
+        "level": 3,
+        "level_name": "Achievement & Status",
+        "level_definition": "Pursuit of excellence through effort, humility, and responsible leadership.",
+        "type": "positive"
+    },
+    {
+        "name": "Recognition",
+        "definition": "Appreciation and acknowledgment",
+        "level": 3,
+        "level_name": "Achievement & Status",
+        "level_definition": "Pursuit of excellence through effort, humility, and responsible leadership.",
+        "type": "positive"
+    },
+    {
+        "name": "Initiative",
+        "definition": "Proactive and self-starting behavior",
+        "level": 3,
+        "level_name": "Achievement & Status",
+        "level_definition": "Pursuit of excellence through effort, humility, and responsible leadership.",
+        "type": "positive"
+    },
+    {
+        "name": "Arrogance",
+        "definition": "Inflated sense of self-worth",
+        "level": 3,
+        "level_name": "Achievement & Status",
+        "level_definition": "Pursuit of excellence through effort, humility, and responsible leadership.",
+        "type": "negative"
+    },
+    {
+        "name": "Control",
+        "definition": "Overbearing authority or dominance",
+        "level": 3,
+        "level_name": "Achievement & Status",
+        "level_definition": "Pursuit of excellence through effort, humility, and responsible leadership.",
+        "type": "negative"
+    },
+    {
+        "name": "Ego",
+        "definition": "Self-centered thinking",
+        "level": 3,
+        "level_name": "Achievement & Status",
+        "level_definition": "Pursuit of excellence through effort, humility, and responsible leadership.",
+        "type": "negative"
+    },
+    {
+        "name": "Learning",
+        "definition": "Continuous improvement and knowledge",
+        "level": 4,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Capacity to adapt, learn, and evolve with creativity and curiosity.",
+        "type": "positive"
+    },
+    {
+        "name": "Innovation",
+        "definition": "Creativity and improvement",
+        "level": 4,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Capacity to adapt, learn, and evolve with creativity and curiosity.",
+        "type": "positive"
+    },
+    {
+        "name": "Adaptability",
+        "definition": "Ability to change and adjust",
+        "level": 4,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Capacity to adapt, learn, and evolve with creativity and curiosity.",
+        "type": "positive"
+    },
+    {
+        "name": "Curiosity",
+        "definition": "Desire to explore and understand",
+        "level": 4,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Capacity to adapt, learn, and evolve with creativity and curiosity.",
+        "type": "positive"
+    },
+    {
+        "name": "Growth",
+        "definition": "Continual self and organizational improvement through learning, adaptability, and reflection",
+        "level": 4,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Capacity to adapt, learn, and evolve with creativity and curiosity.",
+        "type": "positive"
+    },
+    {
+        "name": "Resistance",
+        "definition": "Unwillingness to change",
+        "level": 4,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Capacity to adapt, learn, and evolve with creativity and curiosity.",
+        "type": "negative"
+    },
+    {
+        "name": "Complacency",
+        "definition": "Lack of motivation or growth",
+        "level": 4,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Capacity to adapt, learn, and evolve with creativity and curiosity.",
+        "type": "negative"
+    },
+    {
+        "name": "Authenticity",
+        "definition": "Being true to one's values",
+        "level": 5,
+        "level_name": "Purpose & Integrity",
+        "level_definition": "Living with honesty, alignment, and meaningful contribution.",
+        "type": "positive"
+    },
+    {
+        "name": "Integrity",
+        "definition": "Consistency and honesty",
+        "level": 5,
+        "level_name": "Purpose & Integrity",
+        "level_definition": "Living with honesty, alignment, and meaningful contribution.",
+        "type": "positive"
+    },
+    {   
+        "name": "Shared Purpos",
+        "definition": "Collective meaning and mission",
+        "level": 5,
+        "level_name": "Purpose & Integrity",
+        "level_definition": "Living with honesty, alignment, and meaningful contribution.",
+        "type": "positive"
+    },
+    {   
+        "name": "Purpose & Integrity",
+        "definition": "Collective meaning and mission",
+        "level": 5,
+        "level_name": "Purpose & Integrity",
+        "level_definition": "Living with honesty, alignment, and meaningful contribution.",
+        "type": "positive"
+    },
+{
+        "name": "Hypocrisy",
+        "definition": "Saying one thing, doing another",
+        "level": 5,
+        "level_name": "Growth & Innovation",
+        "level_definition": "CLiving with honesty, alignment, and meaningful contribution.",
+        "type": "negative"
+    },
+{
+        "name": "Misalignment",
+        "definition": "Disconnect between values and actions",
+        "level": 5,
+        "level_name": "Growth & Innovation",
+        "level_definition": "Living with honesty, alignment, and meaningful contribution.",
+        "type": "negative"
+    },
+{
+        "name": "Service",
+        "definition": "Helping others selflessly",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "positive"
+    },
+{
+        "name": "Mentorship",
+        "definition": "Guiding and growing others",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "positive"
+    },
+{
+        "name": "Inclusion",
+        "definition": "Creating spaces where all individuals feel seen, valued, and respected",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "positive"
+    },
+{
+        "name": "Mentorship",
+        "definition": "Guiding and growing others",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "positive"
+    },
+{
+        "name": "Giving Back",
+        "definition": "Contributing to community",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "positive"
+    },
+{
+        "name": "Collaboration",
+        "definition": "Working well with others",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "positive"
+    },
+{
+        "name": "Selfishness",
+        "definition": "Acting only for oneself",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "negative"
+    },
+{
+        "name": "Isolation",
+        "definition": "Withdrawing from collective work",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "negative"
+    },
+{
+        "name": "Exclusion",
+        "definition": "Creating barriers that prevent full participation or belonging",
+        "level": 6,
+        "level_name": "Service & Contribution",
+        "level_definition": "Commitment to uplift others and advance the collective good.",
+        "type": "negative"
+    },
+{
+        "name": "Justice",
+        "definition": "Fairness and equity",
+        "level": 7,
+        "level_name": "Legacy & Sustainability",
+        "level_definition": "Long-term stewardship grounded in justice, care for the earth, and future generations.",
+        "type": "positive"
+    },
+{
+        "name": "Sustainability",
+        "definition": "Long-term care and balance",
+        "level": 7,
+        "level_name": "Legacy & Sustainability",
+        "level_definition": "Long-term stewardship grounded in justice, care for the earth, and future generations.",
+        "type": "positive"
+    },
+{
+        "name": "Social Impact",
+        "definition": "Positive effect on society",
+        "level": 7,
+        "level_name": "Legacy & Sustainability",
+        "level_definition": "Long-term stewardship grounded in justice, care for the earth, and future generations.",
+        "type": "positive"
+    },
+{
+        "name": "Indifference",
+        "definition": "Lack of concern or care",
+        "level": 7,
+        "level_name": "Legacy & Sustainability",
+        "level_definition": "Long-term stewardship grounded in justice, care for the earth, and future generations.",
+        "type": "negative"
+    },
+{
+        "name": "Neglect",
+        "definition": "Failure to take responsibility",
+        "level": 7,
+        "level_name": "Legacy & Sustainability",
+        "level_definition": "Long-term stewardship grounded in justice, care for the earth, and future generations.",
+        "type": "negative"
+    }
+]
