@@ -307,6 +307,13 @@ Please:
             st.subheader("Mizan Dashboard")
             draw_2d_mizan_dashboard(mode="admin")
 
+st.markdown("---")
+if st.button("🔄 Reset Demo Data"):
+    for key in ["company_info", "company_structure", "employee_responses"]:
+        if key in st.session_state:
+            del st.session_state[key]
+    st.success("Demo data has been reset. Ready for a fresh run!")
+    
 # -------------------------------
 # Employee Page
 # -------------------------------
