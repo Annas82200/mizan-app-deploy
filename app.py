@@ -1,4 +1,5 @@
 import streamlit as st
+st.caption("Build: 2025-08-09-02")
 from openai import OpenAI
 import pandas as pd
 import plotly.graph_objects as go
